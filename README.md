@@ -8,4 +8,4 @@ We will put a sunglass and mustache on the face of Elon Musk and make him look c
 ![image](https://github.com/user-attachments/assets/f365d523-f9fd-4f2e-95c5-ca2554338ac7)
 
 It worked well with different sunglasses picture!
-![image](https://github.com/user-attachments/assets/cd51e8dc-38b7-4dba-a168-da135478997c)
+![image](https://github.com/user-attachments/assets/49933617-4deb-4209-b923-dfd7bd74c6a5)
